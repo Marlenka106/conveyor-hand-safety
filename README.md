@@ -31,11 +31,10 @@
 
 ## Запуск
 
-Поместите видео с конвейером (например, test.mp4) в папку assets/, затем выполните:  
-    ```bash
-    python -m src.main --video assets/test.mp4
-    ```
-
+Поместите видео с конвейером (например, `test.mp4`) в папку `assets/`, затем выполните:
+```bash
+python -m src.main --video assets/test.mp4
+```
 
 ## Первый запуск
 
