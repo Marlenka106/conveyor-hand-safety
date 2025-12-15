@@ -6,6 +6,8 @@ __pycache__/
 .env
 assets/
 config/restricted_zones.json
-src.main_1
 config/conveyor_zones.json
 exp/
+output/
+src/main_1.py
+test_hand.py
